@@ -1,0 +1,14 @@
+node_modules/
+.DS_Store
+*.log
+
+# SQLite database files
+
+
+
+# Frontend build output
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+frontend/coverage/
+frontend/*.local
